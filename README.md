@@ -1,4 +1,4 @@
-##Script for run vault with Docker
+## Script for run vault with Docker
 
 STEP 1 - CONFIGURATION
     
